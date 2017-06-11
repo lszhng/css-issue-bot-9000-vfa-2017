@@ -1,5 +1,6 @@
 body {
-  background-color: pink;
+  background: pink;
+}
 
 h1 {
   color: blue;
@@ -13,10 +14,10 @@ h2 {
 }
 
 .completed {
-  font-family: 12px;
+  font-size: 12px;
 }
 
 #tasks .completed {
-  background-color: #cccccc;
+  background: #ccc;
   text-decoration: underline;
 }
